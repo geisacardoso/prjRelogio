@@ -1,0 +1,19 @@
+D:\2021\2J\prjRelogio\prjRelogio\bin\Debug\prjRelogio.exe.config
+D:\2021\2J\prjRelogio\prjRelogio\bin\Debug\prjRelogio.exe
+D:\2021\2J\prjRelogio\prjRelogio\bin\Debug\prjRelogio.pdb
+D:\2021\2J\prjRelogio\prjRelogio\obj\Debug\prjRelogio.csprojResolveAssemblyReference.cache
+D:\2021\2J\prjRelogio\prjRelogio\obj\Debug\prjRelogio.Form1.resources
+D:\2021\2J\prjRelogio\prjRelogio\obj\Debug\prjRelogio.Properties.Resources.resources
+D:\2021\2J\prjRelogio\prjRelogio\obj\Debug\prjRelogio.csproj.GenerateResource.Cache
+D:\2021\2J\prjRelogio\prjRelogio\obj\Debug\prjRelogio.exe
+D:\2021\2J\prjRelogio\prjRelogio\obj\Debug\prjRelogio.pdb
+C:\Users\Geisa Cardoso\source\repos\prjRelogio\prjRelogio\bin\Debug\prjRelogio.exe.config
+C:\Users\Geisa Cardoso\source\repos\prjRelogio\prjRelogio\bin\Debug\prjRelogio.exe
+C:\Users\Geisa Cardoso\source\repos\prjRelogio\prjRelogio\bin\Debug\prjRelogio.pdb
+C:\Users\Geisa Cardoso\source\repos\prjRelogio\prjRelogio\obj\Debug\prjRelogio.csprojAssemblyReference.cache
+C:\Users\Geisa Cardoso\source\repos\prjRelogio\prjRelogio\obj\Debug\prjRelogio.Form1.resources
+C:\Users\Geisa Cardoso\source\repos\prjRelogio\prjRelogio\obj\Debug\prjRelogio.Properties.Resources.resources
+C:\Users\Geisa Cardoso\source\repos\prjRelogio\prjRelogio\obj\Debug\prjRelogio.csproj.GenerateResource.cache
+C:\Users\Geisa Cardoso\source\repos\prjRelogio\prjRelogio\obj\Debug\prjRelogio.csproj.CoreCompileInputs.cache
+C:\Users\Geisa Cardoso\source\repos\prjRelogio\prjRelogio\obj\Debug\prjRelogio.exe
+C:\Users\Geisa Cardoso\source\repos\prjRelogio\prjRelogio\obj\Debug\prjRelogio.pdb
